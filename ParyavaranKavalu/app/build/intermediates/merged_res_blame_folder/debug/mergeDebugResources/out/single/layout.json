@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.paryavarankavalu.app-mergeDebugResources-48:/layout/activity_report.xml",
+        "source": "com.paryavarankavalu.app-main-51:/layout/activity_report.xml"
+    },
+    {
+        "merged": "com.paryavarankavalu.app-mergeDebugResources-48:/layout/layout_report_bottom_sheet.xml",
+        "source": "com.paryavarankavalu.app-main-51:/layout/layout_report_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.paryavarankavalu.app-mergeDebugResources-48:/layout/activity_splash.xml",
+        "source": "com.paryavarankavalu.app-main-51:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.paryavarankavalu.app-mergeDebugResources-48:/layout/item_report.xml",
+        "source": "com.paryavarankavalu.app-main-51:/layout/item_report.xml"
+    },
+    {
+        "merged": "com.paryavarankavalu.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.paryavarankavalu.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.paryavarankavalu.app-mergeDebugResources-48:/layout/activity_map.xml",
+        "source": "com.paryavarankavalu.app-main-51:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.paryavarankavalu.app-mergeDebugResources-48:/layout/activity_profile.xml",
+        "source": "com.paryavarankavalu.app-main-51:/layout/activity_profile.xml"
+    }
+]

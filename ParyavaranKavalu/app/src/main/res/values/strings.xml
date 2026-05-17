@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paryavaran-Kavalu</string>
+    <string name="new_report">New Report</string>
+    <string name="view_map">View Map</string>
+    <string name="my_profile">My Profile</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="mark_as_cleaned">Mark as Cleaned</string>
+    <string name="eco_karma">Eco-Karma Points</string>
+    <string name="location_permission_rationale">Location permission is required to geo-tag waste reports so volunteers can find them.</string>
+    <string name="camera_permission_rationale">Camera permission is needed to take photos of waste blackspots.</string>
+    <string name="no_reports">No reports yet. Tap ➕ to report a waste blackspot!</string>
+    <string name="report_submitted">Report submitted! +10 Eco-Karma earned!</string>
+    <string name="marked_as_cleaned">Marked as Cleaned! Great work!</string>
+    <string name="fetching_location">Fetching location…</string>
+    <string name="report_title_hint">Report Title (e.g. Garbage near park)</string>
+    <string name="description_hint">Description (optional)</string>
+</resources>

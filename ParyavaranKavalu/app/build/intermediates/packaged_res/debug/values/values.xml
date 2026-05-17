@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background">#F5F5F5</color>
+    <color name="black">#000000</color>
+    <color name="green_light">#E8F5E9</color>
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_secondary">#4CAF50</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="status_cleaned">#4CAF50</color>
+    <color name="status_in_progress">#2196F3</color>
+    <color name="status_pending">#F44336</color>
+    <color name="status_verified">#FF9800</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Paryavaran-Kavalu</string>
+    <string name="camera_permission_rationale">Camera permission is needed to take photos of waste blackspots.</string>
+    <string name="description_hint">Description (optional)</string>
+    <string name="eco_karma">Eco-Karma Points</string>
+    <string name="fetching_location">Fetching location…</string>
+    <string name="location_permission_rationale">Location permission is required to geo-tag waste reports so volunteers can find them.</string>
+    <string name="mark_as_cleaned">Mark as Cleaned</string>
+    <string name="marked_as_cleaned">Marked as Cleaned! Great work!</string>
+    <string name="my_profile">My Profile</string>
+    <string name="new_report">New Report</string>
+    <string name="no_reports">No reports yet. Tap ➕ to report a waste blackspot!</string>
+    <string name="report_submitted">Report submitted! +10 Eco-Karma earned!</string>
+    <string name="report_title_hint">Report Title (e.g. Garbage near park)</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="view_map">View Map</string>
+    <style name="Theme.ParyavaranKavalu" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryVariant">@color/green_secondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/green_secondary</item>
+        <item name="colorSecondaryVariant">@color/green_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/green_primary</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.ParyavaranKavalu.NoActionBar" parent="Theme.ParyavaranKavalu">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.ParyavaranKavalu.Splash" parent="Theme.ParyavaranKavalu">
+        <item name="android:windowBackground">@color/green_primary</item>
+    </style>
+</resources>
